@@ -1,0 +1,3 @@
+CSS (Cascading Style Sheets)
+CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk mengatur tampilan atau styling dari halaman web yang dibuat dengan HTML. 
+Dengan CSS, Anda dapat mengontrol warna, font, margin, padding, posisi, dan banyak lagi elemen tampilan pada halaman web.
