@@ -1,0 +1,3 @@
+Java adalah bahasa pemrograman tingkat tinggi yang dikembangkan pada awal tahun 1990-an oleh James Gosling dan timnya di Sun Microsystems (kini dimiliki oleh Oracle Corporation). 
+Java memiliki sintaks yang mudah dipahami, objek-oriented, dan mendukung paradigma pemrograman fungsional. Java juga mempunyai fitur yang sangat penting seperti portability, keamanan dan keterbukaan. 
+Java dapat dijalankan di berbagai platform seperti Windows, Mac OS, Linux, dan bahkan pada perangkat mobile.
