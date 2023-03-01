@@ -1,3 +1,3 @@
-HTML (Hypertext Markup Language)
+Penjelasan HTML (Hypertext Markup Language)
 HTML (Hypertext Markup Language) adalah bahasa markah standar yang digunakan untuk membuat dan mengatur isi halaman web. 
 HTML digunakan untuk membangun struktur dasar dari sebuah situs web, seperti judul, teks, gambar, audio, video, tabel, formulir, dan link.
