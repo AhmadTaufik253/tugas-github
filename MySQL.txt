@@ -1,0 +1,4 @@
+MySQL
+MySQL adalah sistem manajemen basis data relasional open-source yang digunakan untuk menyimpan dan mengelola data pada aplikasi web dan aplikasi lainnya.
+MySQL sangat populer di dunia pengembangan web karena kemampuannya untuk memproses banyak data dengan cepat dan efisien. 
+MySQL menggunakan bahasa SQL (Structured Query Language) untuk mengakses dan memanipulasi data pada basis data.
