@@ -1,3 +1,4 @@
+Penjelasan Python
 Python adalah bahasa pemrograman tingkat tinggi yang pertama kali dirilis pada tahun 1991 oleh Guido van Rossum. 
 Python dirancang dengan sintaks yang sederhana dan mudah dipahami, sehingga memudahkan pengguna untuk mempelajari dan membangun program-program kompleks. 
 Python juga mendukung paradigma pemrograman fungsional, berorientasi objek, dan pemrograman prosedural.
